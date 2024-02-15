@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.019301888, g: 0.014608799, b: 0.010029955, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -538,7 +538,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-12592
+  m_Name: pb_Mesh32248
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -702,7 +702,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh31128
+  m_Name: pb_Mesh32346
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -866,7 +866,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh31144
+  m_Name: pb_Mesh32362
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2036,7 +2036,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-10716
+  m_Name: pb_Mesh32332
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2544,7 +2544,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-5164
+  m_Name: pb_Mesh32304
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2708,7 +2708,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-14186
+  m_Name: pb_Mesh32262
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2877,7 +2877,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-9470
+  m_Name: pb_Mesh32226
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -3121,14 +3121,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1793301023}
-  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalRotation: {x: 0.16816452, y: 0.5397578, z: 0.38772008, w: 0.728049}
   m_LocalPosition: {x: 1.42, y: 6.15, z: -2.46}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: -10.002, y: 68.51, z: 49.254}
 --- !u!1 &1794561528
 GameObject:
   m_ObjectHideFlags: 0
